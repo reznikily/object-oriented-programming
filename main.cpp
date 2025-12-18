@@ -8,5 +8,7 @@ int main()
 	int sum = 0;
 	for (int i : arr)
 		sum += i;
+	int n;
+	cin >> n;
 	return 0;
 }
